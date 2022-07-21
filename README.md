@@ -11,3 +11,18 @@ The employee number and name of current employees with birth dates between Janua
 
 ATTACH THE FILES SOMEWHERE
 
+- There are 72,458 employees who are eligible for the mentorship program.
+- Most of the employees who are eligible for the program started in their current position in the 1990s.
+
+| Decade | Number of Employees|
+|--------|--------------------|
+|1980s|15,293|
+|1990s|52,169|
+|2000s|4,996|
+|Total|72,458|
+
+
+
+
+
+
