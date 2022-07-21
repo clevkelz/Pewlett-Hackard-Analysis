@@ -11,7 +11,7 @@ The employee number and name of current employees with birth dates between Janua
 
 ATTACH THE FILES SOMEWHERE
 
-- There are 72,458 employees who are eligible for the mentorship program.
+- There are 72,458 employees who are eligible for the mentorship program.  There are 240,124 current employees.  This, about 30% of employees are eligible for this program.
 - Most of the employees who are eligible for the program started in their current position in the 1990s.
 
 | Decade | Number of Employees|
@@ -20,6 +20,20 @@ ATTACH THE FILES SOMEWHERE
 |1990s|52,169|
 |2000s|4,996|
 |Total|72,458|
+
+- The largest number of eligible employees hold senior engineer or senior staff positions.  Approximately 70% of eligible employees have one of these two positions. 
+- The average tenure by employee title for eligible employees is at least 25 years.
+
+|Title|Average Tenure|
+|-----|--------------|
+|Assistant Engineer|25|
+|Engineer|26|
+|Manager|31|
+|Senior Engineer|32|
+|Senior Staff|27|
+|Staff|25|
+|Technique Leader|30|
+
 
 
 
