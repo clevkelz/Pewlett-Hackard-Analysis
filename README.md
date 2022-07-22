@@ -11,7 +11,25 @@ The employee number and name of current employees with birth dates between Janua
 
 ATTACH THE FILES SOMEWHERE
 
-- There are 72,458 employees who met the criteria of upcoming retirees as defined above.  There are 240,124 current employees.  This, about 30% of employees are expected to retire shortly.
+- There are 72,458 employees who met the criteria of upcoming retirees as defined above.  There are 240,124 current employees.  Thus, about 30% of employees are expected to retire shortly.
+- The largest number of expected retirees hold senior engineer or senior staff positions.  Approximately 70% of upcoming retirees have one of these two positions. 
+- There are 1,549 employees eligible for the mentorship program.  This is about 2% of the number of upcoming retirees.
+- About 70% of the employees eligible for the mentorship program also hold the position of either engineer or senior staff.  The breakdown of these employees is as follows:
+
+|Title|Number of Employees|
+|-----|-------------------|
+|Senior Staff|569|
+|Senior Engineer|529|
+|Engineer|190|
+|Staff|155|
+|Technique Leader|77|
+|Assistant Engineer|29|
+
+
+
+
+
+- 
 
 - Most of the employees who are eligible for the program started in their current position in the 1990s.
 
