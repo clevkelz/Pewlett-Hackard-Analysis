@@ -29,15 +29,18 @@ ATTACH THE FILES SOMEWHERE
 
 ### Roles that Will Need to Be Filled
 
+
+
 |Title|Number of Non-Retiring Employees (born after 1955|Number of Retiring Employees (born between 1952-1955|Difference|
 |-----|-------------------------------------------------|----------------------------------------------------|----------|
-|Senior Engineer|60,023|
-|Senior Engineer|57,098|
-|Engineer|21,698|
-|Staff|17,890|
-|Technique Leader|8,452|
-|Assistant Engineer|2,498|
-|**Totals**
+|Senior Engineer|60,023|25,916|34,107|
+|Senior Engineer|57,098|24,926|32,172|
+|Engineer|21,698|9,285|12,413|
+|Staff|17,890|7,636|10,254|
+|Technique Leader|8,452|3,603|4,849|
+|Assistant Engineer|2,498|1,090|1,408|
+|Manager|2|7|5|
+|**Totals**|**167,666**|**72,458**|**95,208**|
 
 
 
