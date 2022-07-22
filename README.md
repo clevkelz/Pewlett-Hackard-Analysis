@@ -29,12 +29,12 @@ ATTACH THE FILES SOMEWHERE
 
 ### Roles that Will Need to Be Filled
 
-
+There is a sizable number of likely retirees concentrated in some of the most senior and technical positions in the company, especially in the roles of senior engineer, senior staff, and engineer.  Although there are still quite a large number of employees not slated to retire in these roles, the very real possibility of an "avalanche" of retirements will present the most risk to the company for these top level slots.  Therefore, it is imperative to begin the transfer of knowledge to newer employees as soon as possible and to also find ways to recruit knowledgeable candidates.  It is recommended that management undertake a staffing analsys to account for these imminent retirements, specifically to identify the best mxture of reallocating responsibilites to curent employees and hiring new staff members.
 
 |Title|Number of Non-Retiring Employees (born after 1955|Number of Retiring Employees (born between 1952-1955|Difference|
 |-----|-------------------------------------------------|----------------------------------------------------|----------|
 |Senior Engineer|60,023|25,916|34,107|
-|Senior Engineer|57,098|24,926|32,172|
+|Senior Staff|57,098|24,926|32,172|
 |Engineer|21,698|9,285|12,413|
 |Staff|17,890|7,636|10,254|
 |Technique Leader|8,452|3,603|4,849|
@@ -42,7 +42,9 @@ ATTACH THE FILES SOMEWHERE
 |Manager|7|2|5|
 |**Totals**|**167,666**|**72,458**|**95,208**|
 
+### Coverage of the Mentorship Program
 
+Based on the analysis, there are more than enough experienced retirement_ready employees to mentor the employees deemed eligible for the current mentorship program.  As described in detail in the Results section of this analysis, the cohort for the mentorship program is much smaller than the population of soon-to-be retired employees.  Therefore, there should be sufficent experienced employees to provide sufficient one-on-one time even if a substantial number of employes decline to participate as a mentor or a mentee.
 
 
 
