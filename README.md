@@ -39,7 +39,7 @@ ATTACH THE FILES SOMEWHERE
 |Staff|17,890|7,636|10,254|
 |Technique Leader|8,452|3,603|4,849|
 |Assistant Engineer|2,498|1,090|1,408|
-|Manager|2|7|5|
+|Manager|7|2|5|
 |**Totals**|**167,666**|**72,458**|**95,208**|
 
 
