@@ -44,7 +44,7 @@ There is a sizable number of likely retirees concentrated in some of the most se
 
 ### Coverage of the Mentorship Program
 
-Based on the analysis, there are more than enough experienced retirement_ready employees to mentor the employees deemed eligible for the current mentorship program.  As described in detail in the Results section of this analysis, the cohort for the mentorship program is much smaller than the population of soon-to-be retired employees.  Therefore, there should be sufficent experienced employees to provide sufficient one-on-one time even if a substantial number of employes decline to participate as a mentor or a mentee.
+Based on the analysis, there are more than enough experienced retirement-ready employees to mentor the employees deemed eligible for the current mentorship program.  As described in detail in the Results section of this analysis, the cohort for the mentorship program is much smaller than the population of soon-to-be retired employees.  Therefore, there should be sufficent experienced employees to provide sufficient one-on-one time even if a substantial number of employes decline to participate as a mentor or a mentee.  If the pilot mentorship program is successful, then it could be expanded and adapted as additional employees retire.
 
 
 
