@@ -9,7 +9,11 @@ The employee number and name of current employees with birth dates between Janua
 
 ## Results
 
-ATTACH THE FILES SOMEWHERE
+[retirement_titles.csv](https://github.com/clevkelz/Pewlett-Hackard-Analysis/files/9185541/retirement_titles.csv)
+
+[unique_titles.csv](https://github.com/clevkelz/Pewlett-Hackard-Analysis/files/9185542/unique_titles.csv)
+
+[retiring_titles.csv](https://github.com/clevkelz/Pewlett-Hackard-Analysis/files/9185543/retiring_titles.csv)
 
 - There are 72,458 employees who met the criteria of upcoming retirees as defined above.  There are 240,124 current employees.  Thus, about 30% of employees are expected to retire shortly.
 - The largest number of expected retirees hold senior engineer or senior staff positions.  Approximately 70% of upcoming retirees have one of these two positions. 
