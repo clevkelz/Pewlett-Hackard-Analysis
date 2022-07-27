@@ -9,7 +9,7 @@ The employee number and name of current employees with birth dates between Janua
 
 ## Results
 
-The three sets of resukts are attached below.  
+The three sets of results are attached below.  
 
 [retirement_titles.csv](https://github.com/clevkelz/Pewlett-Hackard-Analysis/files/9185541/retirement_titles.csv)
 
